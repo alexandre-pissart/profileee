@@ -1,0 +1,10 @@
+/*color and font*/
+
+body	{
+	background: rgb(130, 130, 130);
+	color: rgb(50, 50, 50);
+	font-family: Helvetica;
+	font-size: 16px;
+}
+
+h1
